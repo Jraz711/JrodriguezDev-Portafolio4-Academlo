@@ -348,6 +348,10 @@ nav ul li a:hover {
     text-align: center;
 }
 
+.servicio1 h6{
+    color: #D1ceca;
+}
+
 .servicio2 {
     grid-column: 2/3;
     grid-row: 2;
@@ -357,7 +361,9 @@ nav ul li a:hover {
     background-color: white;
     padding: 15px 0;
 }
-
+.servicio1 h6 {
+    color: #D1ceca;
+}
 .servicio3 {
 
     grid-column: 3/4;
@@ -375,6 +381,17 @@ nav ul li a:hover {
     background-color: white;
 
     padding: 15px 0;
+}
+.servicio1 h6{
+    color: #D1ceca;
+}
+
+.servicio2 h6 {
+    color: #D1ceca;
+}
+
+.servicio3 h6 {
+    color: #D1ceca;
 }
 
 .aside1 .servicio1 h6 {
